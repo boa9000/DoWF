@@ -1,3 +1,6 @@
+![ezgif-189345df1ad9df](https://github.com/user-attachments/assets/cf23c243-8fbb-4f00-a130-e08c83a79bbe)
+
+
 # Wind Farm Optimization & Economic Evaluation
 
 This repository contains a suite of Python scripts designed for the optimization, evaluation, and economic analysis of wind farm projects. The primary focus is on the **Simulated Annealing** optimization method to determine the best positions for wind turbines, while also evaluating the energy production (AEP), **Levelized Cost of Energy (LCOE)**, and **Net Present Value (NPV)**. Additionally, spot price calculations and wind data extraction are included to support these evaluations.
