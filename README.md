@@ -23,28 +23,13 @@ These scripts work together to optimize wind turbine placement, evaluate the fin
 
 ### **Requirements**
 
-Before running any of these scripts, ensure you have the following dependencies installed:
-
-- Python 3.x
-- `numpy` 
-- `pandas` 
-- `matplotlib`
-- `scipy`
-- `netCDF4`
-- `floris`
-- `Pillow` (for image processing)
-
-You can install the necessary libraries via pip:
-
-```bash
-pip install numpy pandas matplotlib scipy netCDF4 floris Pillow
-```
+I will upload a requirements.txt soon!
 
 ### **Scripts Overview**
 
 #### 1. **`allocator.py`** - Wind Turbine Position Optimization
 
-This script uses **Simulated Annealing** to optimize the layout of wind turbines based on their positions on a grid map. The optimization is driven by factors like **Annual Energy Production (AEP)** and the farm's **Layout Factor**. 
+This script uses **Simulated Annealing** to optimize the layout of wind turbines based on their positions on a grid map. The optimization is driven by factors like **Annual Energy Production (AEP)** and the farm's **layout**. 
 
 #### 2. **`allocationTester.py`** - Testing Layouts with Wind Rose
 
