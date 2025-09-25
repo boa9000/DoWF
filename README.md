@@ -1,3 +1,4 @@
+A more user friendly version, and easier to read is here: https://github.com/boa9000/farmopt
 ![ezgif-189345df1ad9df](https://github.com/user-attachments/assets/cf23c243-8fbb-4f00-a130-e08c83a79bbe)
 
 
